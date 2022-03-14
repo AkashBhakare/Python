@@ -1,0 +1,35 @@
+Avinash:
+Hello World
+Hello Python
+Shardul , Shradhha, Aman
+Error at line no 2.
+Avinash New anwer: ---&gt; Correct.
+Hello World
+Line 3 error. (integer type error)
+
+Aim : Modules concept we are trying to understand by creating few functions,
+Company - Gauri - spyware virus_detection(), Gaurav - malware code - virus_detection(),
+Akash - antivirus code - virus_detection().
+Rushikesh - I want all these 3 codes for my program.
+Print 3’s table.
+3 x 1 = 3
+3 x 2 = 6
+3 X 3 = 9
+……
+3 x 10 = 30
+Function name : print_table(number) :
+Turtle - Shardul print_table(number)
+Black-White - Shraddha 3’s table ( for loop) print_table(number)
+Black-White - Avinash 3’s table (while loop) print_table(number)
+Black-White - Gaurav 4’s table (while loop) print_table(number)
+Generator - Mangesh 3’s table (Generator) print_table(number)
+Testing All the above code and combine into 1 project - Rushikesh
+
+-- (Git repository - private, public)
+
+If we write the def of functions and statements into the Python interpreter and exit from
+interpreter next time we are not able to access.
+def gm():
+print(“good morning”)
+sci = 99
+Hence we write them into the file and import modulename.
